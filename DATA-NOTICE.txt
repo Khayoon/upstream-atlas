@@ -58,3 +58,17 @@ SCOPE OF THIS NOTICE
 Third-party data and software retain their respective ownership and terms.
 This notice grants no license to this project's original source code and does
 not replace or expand the upstream data or software license agreements.
+
+TORONTO WATERSHED BOUNDARIES — TRCA
+
+The Humber, Don and Rouge watershed boundaries are derived from TRCA's
+Watersheds_TRCA polygon layer, reprojected for the atlas. These are complete
+watershed polygons, not buffers constructed from the displayed stream lines.
+https://services1.arcgis.com/d0ZCwU7eGKVeNiEE/arcgis/rest/services/Watersheds_TRCA/FeatureServer/0
+
+Contains information made available under the Toronto and Region Conservation
+Authority (TRCA)’s Open Data Licence v1.0
+https://trca.ca/about/open-data-licence/
+
+River lines and watershed boundaries come from independent sources and may
+differ slightly along their edges. The providers have not endorsed this atlas.
