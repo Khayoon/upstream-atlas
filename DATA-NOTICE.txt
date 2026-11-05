@@ -83,3 +83,15 @@ https://www.ontario.ca/page/open-government-licence-ontario
 
 These local lines provide reference detail. They are not added to the
 HydroRIVERS network totals or used to invent upstream animation distances.
+
+OFFICIAL WATERCOURSE NAMES — GEOGRAPHIC NAMES ONTARIO
+
+River and creek names are matched to the Geographic Names Ontario named-feature
+extents, published by Land Information Ontario under the Open Government
+Licence – Ontario. Named extents are used as evidence for attribution; they do
+not replace the mapped river geometry or the upstream-distance calculation.
+https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_OPEN_DATA/LIO_Open09/MapServer/36
+https://www.arcgis.com/home/item.html?id=5889a694950944a5b55f1b4cd3e242ac
+https://www.ontario.ca/page/open-government-licence-ontario
+
+Contains information licensed under the Open Government Licence – Ontario.
