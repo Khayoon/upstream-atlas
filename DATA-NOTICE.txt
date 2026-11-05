@@ -61,8 +61,8 @@ not replace or expand the upstream data or software license agreements.
 
 TORONTO WATERSHED BOUNDARIES — TRCA
 
-The Humber, Don and Rouge watershed boundaries are derived from TRCA's
-Watersheds_TRCA polygon layer, reprojected for the atlas. These are complete
+The Toronto-area watershed and waterfront drainage boundaries are derived from
+TRCA's Watersheds_TRCA polygon layer, reprojected for the atlas. These are complete
 watershed polygons, not buffers constructed from the displayed stream lines.
 https://services1.arcgis.com/d0ZCwU7eGKVeNiEE/arcgis/rest/services/Watersheds_TRCA/FeatureServer/0
 
@@ -72,3 +72,14 @@ https://trca.ca/about/open-data-licence/
 
 River lines and watershed boundaries come from independent sources and may
 differ slightly along their edges. The providers have not endorsed this atlas.
+
+TORONTO LOCAL WATERCOURSES — ONTARIO HYDRO NETWORK
+
+Additional Toronto creek lines in the interactive map are derived from Ontario
+Hydro Network (OHN) Watercourse data, under the Open Government Licence – Ontario.
+Contains information licensed under the Open Government Licence – Ontario.
+https://data.ontario.ca/dataset/ontario-hydro-network-ohn-watercourse
+https://www.ontario.ca/page/open-government-licence-ontario
+
+These local lines provide reference detail. They are not added to the
+HydroRIVERS network totals or used to invent upstream animation distances.
