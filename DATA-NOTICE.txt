@@ -39,7 +39,25 @@ HydroSHEDS scientific citation: Lehner, B., Verdin, K. and Jarvis, A. (2008),
 New global hydrography derived from spaceborne elevation data. Eos,
 Transactions, AGU, 89(10), 93–94.
 
+HYDROBASINS / HYDROSHEDS — INVISIBLE CATCHMENT PICKING
+
+HydroBASINS level 12 polygons are used as an invisible layer for hover and click
+detection. HydroRIVERS HYBAS_L12 values are joined directly to HydroBASINS
+HYBAS_ID identities. The displayed drainage context is derived from those
+catchments and the mapped downstream network; it does not assign an official
+stream name to every small channel or delineate every small creek catchment.
+https://www.hydrosheds.org/products/hydrobasins
+
+HydroBASINS: Lehner, B. and Grill, G. (2013), HydroSHEDS / WWF. The scientific
+citation and required HydroSHEDS attribution above also apply. Applicable
+license terms are preserved in vendor/HydroSHEDS-LICENSE.txt.
+
+Supplementary river-name continuity uses existing connected map pieces between
+verified anchors of the same official named feature. It adds no invented river
+geometry and leaves original name matches, animation clocks and totals intact.
+
 NATURAL EARTH
+
 
 Base boundaries, land, lakes and river-name placement derive from Natural Earth
 1:10m map data, which Natural Earth provides in the public domain. Detailed
