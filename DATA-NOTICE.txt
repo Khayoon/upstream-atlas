@@ -103,6 +103,29 @@ https://www.ontario.ca/page/open-government-licence-ontario
 These local lines provide reference detail. They are not added to the
 HydroRIVERS network totals or used to invent upstream animation distances.
 
+Explore also uses named OHN Watercourse features around the Greater Toronto
+Area and Lake Simcoe. OHN GEL_NAME_IDENT values join directly to Geographic
+Names Ontario FEATURE_IDENT identities. The live reference layer preserves
+source type and verified-flow attributes; virtual lake connectors are not
+shown as named surface streams. Official line names are separate from the
+connected upstream drainage networks selected in the map. Tributary membership
+does not change a tributary's own name. Neither layer changes the film geometry,
+upstream distances or provincial network totals.
+
+HOLLAND RIVER DRAINAGE NETWORKS — LSRCA
+
+The East and West Holland subwatershed boundaries and detailed stream network
+derive from Lake Simcoe Region Conservation Authority's Open Data service.
+The combined Holland basin is the union of those two official subwatersheds.
+Source stream names and subwatershed membership are retained separately from
+Geographic Names Ontario channel identities. This detail is used only in Explore.
+https://gis.lsrca.on.ca/gis/rest/services/OpenData/MapServer/31
+https://gis.lsrca.on.ca/gis/rest/services/OpenData/MapServer/8
+https://lsrca.on.ca/index.php/home/open-data/
+
+Contains Information made available under Lake Simcoe Region Conservation
+Authority Open Data Licence v1.0.
+
 TORONTO SHORELINE — ONTARIO HYDRO NETWORK WATERBODY
 
 Detailed Lake Ontario shoreline geometry in the Toronto area is derived from
