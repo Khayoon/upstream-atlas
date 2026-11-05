@@ -41,8 +41,9 @@ Transactions, AGU, 89(10), 93–94.
 
 NATURAL EARTH
 
-Boundaries, land, lakes and river-name placement derive from Natural Earth
-1:10m map data, which Natural Earth provides in the public domain.
+Base boundaries, land, lakes and river-name placement derive from Natural Earth
+1:10m map data, which Natural Earth provides in the public domain. Detailed
+Toronto shoreline display geometry uses OHN Waterbody data as described below.
 https://www.naturalearthdata.com/
 https://www.naturalearthdata.com/about/terms-of-use/
 
@@ -83,6 +84,17 @@ https://www.ontario.ca/page/open-government-licence-ontario
 
 These local lines provide reference detail. They are not added to the
 HydroRIVERS network totals or used to invent upstream animation distances.
+
+TORONTO SHORELINE — ONTARIO HYDRO NETWORK WATERBODY
+
+Detailed Lake Ontario shoreline geometry in the Toronto area is derived from
+Ontario Hydro Network (OHN) Waterbody polygons. The local display retains island
+holes and leaves the river network and official TRCA drainage boundaries unchanged.
+https://data.ontario.ca/dataset/ontario-hydro-network-ohn-waterbody
+https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_OPEN_DATA/LIO_Open01/MapServer/25
+https://www.ontario.ca/page/open-government-licence-ontario
+
+Contains information licensed under the Open Government Licence – Ontario.
 
 OFFICIAL WATERCOURSE NAMES — GEOGRAPHIC NAMES ONTARIO
 
