@@ -1,0 +1,15 @@
+BLACK SEA RIVER ATLAS — DATA AND SOFTWARE NOTICES
+
+HydroRIVERS v1.0 and HydroBASINS v1c: Lehner and Grill (2013), HydroSHEDS / World Wildlife Fund. Generalized 15-arc-second hydrography; not a navigation or flood forecast product. Upstream distances sum mapped source reach lengths, not water travel time.
+
+GRDC (2020): GRDC Major River Basins. Global Runoff Data Centre. 2nd, revised edition. Koblenz: Federal Institute of Hydrology (BfG). Incorporates HydroSHEDS data, copyright WWF (2006–2013), used under its terms. GRDC basin and major-river layers are acknowledged; WWF has not evaluated these adaptations and offers no warranty of accuracy, completeness or currency. https://mrb.grdc.bafg.de/
+
+Natural Earth: public-domain context geography and supplementary cartographic river names. https://www.naturalearthdata.com/
+
+Danube basin fact: International Commission for the Protection of the Danube River. https://www.icpdr.org/danube-basin/countries
+
+Principal coastal river catalogue: Commission on the Protection of the Black Sea Against Pollution. https://www.blackseacommission.org/theblacksea.php
+
+MP4 Muxer by Vanilagy: MIT licence retained in vendor/mp4-muxer-LICENSE.txt. The HydroSHEDS notice is retained in vendor/HydroSHEDS-LICENSE.txt.
+
+First-party application code is not licensed for reuse by publication of generated browser assets. Browser-delivered code and geographic data remain inspectable.
