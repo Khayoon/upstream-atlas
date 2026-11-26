@@ -13,3 +13,5 @@ Principal coastal river catalogue: Commission on the Protection of the Black Sea
 MP4 Muxer by Vanilagy: MIT licence retained in vendor/mp4-muxer-LICENSE.txt. The HydroSHEDS notice is retained in vendor/HydroSHEDS-LICENSE.txt.
 
 First-party application code is not licensed for reuse by publication of generated browser assets. Browser-delivered code and geographic data remain inspectable.
+
+Supplementary delta channels: Natural Earth river geometry. Tulcea bifurcation interpretation: Oaie et al. (2015), GeoEcoMar, https://www.geoecomar.ro/website/publicatii/Nr.21-2015/21_02_OAIE_2015.pdf. Supplementary display geometry is excluded from HydroRIVERS network-length totals.
